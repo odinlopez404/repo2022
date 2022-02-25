@@ -1,0 +1,377 @@
+[33mcommit 99c6fc0d2e51708b5ff974d9e15df8d2c0c6b04e[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Odin <odinlopez0@gmail.com>
+Date:   Thu Feb 24 21:11:38 2022 -0300
+
+    Se sube el proyecto con algunas modificaciones para posteriormente terminar de modificar el producto final
+
+[33mcommit 5dd297ac0e5b7b468fa85b64f57f9ff3d7ece57a[m
+Author: Vikas Ganiga <codewithvikas@gmail.com>
+Date:   Sat Jan 1 19:44:33 2022 +0530
+
+    fix: dynamic copyright year
+
+[33mcommit c9031f0584726e775c57eb8a760169efc2ec14ee[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Mon Mar 29 17:03:05 2021 +0000
+
+    Bump y18n from 3.2.1 to 3.2.2
+    
+    Bumps [y18n](https://github.com/yargs/y18n) from 3.2.1 to 3.2.2.
+    - [Release notes](https://github.com/yargs/y18n/releases)
+    - [Changelog](https://github.com/yargs/y18n/blob/master/CHANGELOG.md)
+    - [Commits](https://github.com/yargs/y18n/commits)
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+[33mcommit 3759c21a701d00665dc76ea56760342b3e6c7a1d[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Thu Dec 10 23:46:52 2020 +0000
+
+    Bump ini from 1.3.5 to 1.3.7
+    
+    Bumps [ini](https://github.com/isaacs/ini) from 1.3.5 to 1.3.7.
+    - [Release notes](https://github.com/isaacs/ini/releases)
+    - [Commits](https://github.com/isaacs/ini/compare/v1.3.5...v1.3.7)
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+[33mcommit 93d69823f47c7bd7e92ec50d64218b0df013d00b[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Fri May 7 21:15:07 2021 +0000
+
+    Bump lodash from 4.17.19 to 4.17.21
+    
+    Bumps [lodash](https://github.com/lodash/lodash) from 4.17.19 to 4.17.21.
+    - [Release notes](https://github.com/lodash/lodash/releases)
+    - [Commits](https://github.com/lodash/lodash/compare/4.17.19...4.17.21)
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+[33mcommit 9494449269fa19865c653e45dd1806589f48a4f5[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Tue Jun 15 16:53:29 2021 +0000
+
+    Bump postcss from 7.0.27 to 7.0.36
+    
+    Bumps [postcss](https://github.com/postcss/postcss) from 7.0.27 to 7.0.36.
+    - [Release notes](https://github.com/postcss/postcss/releases)
+    - [Changelog](https://github.com/postcss/postcss/blob/main/CHANGELOG.md)
+    - [Commits](https://github.com/postcss/postcss/compare/7.0.27...7.0.36)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: postcss
+      dependency-type: indirect
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+[33mcommit af85810d3c7c06f3bd66a9f597a8c112b208af55[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Tue Aug 10 20:22:23 2021 +0000
+
+    Bump path-parse from 1.0.6 to 1.0.7
+    
+    Bumps [path-parse](https://github.com/jbgutierrez/path-parse) from 1.0.6 to 1.0.7.
+    - [Release notes](https://github.com/jbgutierrez/path-parse/releases)
+    - [Commits](https://github.com/jbgutierrez/path-parse/commits/v1.0.7)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: path-parse
+      dependency-type: indirect
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+[33mcommit e2aa06c246c835c7af3d456072d5df301f2dbd34[m
+Author: Ryan Fitzgerald <me@ryanfitzgerald.ca>
+Date:   Sat Oct 17 21:11:27 2020 -0400
+
+    Update README.md
+
+[33mcommit eb97ab8007059307c905829a247bc25123724338[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Thu Jul 16 12:20:10 2020 +0000
+
+    Bump lodash from 4.17.15 to 4.17.19
+    
+    Bumps [lodash](https://github.com/lodash/lodash) from 4.17.15 to 4.17.19.
+    - [Release notes](https://github.com/lodash/lodash/releases)
+    - [Commits](https://github.com/lodash/lodash/compare/4.17.15...4.17.19)
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+[33mcommit b2b4648a3582ea7a8ae1f48a52196547c1e37ab5[m
+Author: Peter Thaleikis <spekulatius@users.noreply.github.com>
+Date:   Wed Aug 26 13:25:20 2020 +0400
+
+    Typos fixed
+
+[33mcommit 4df57ddaa05260c096468011778808ec46269fee[m
+Author: Ryan Fitzgerald <me@ryanfitzgerald.ca>
+Date:   Wed Mar 25 11:39:44 2020 -0400
+
+    1.2.2 - Update dependencies and gulpfile
+
+[33mcommit e0f254064f1ec49bb8f27380fb853dd102d83a2b[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Sat Feb 15 21:42:57 2020 +0000
+
+    Bump fstream from 1.0.11 to 1.0.12
+    
+    Bumps [fstream](https://github.com/npm/fstream) from 1.0.11 to 1.0.12.
+    - [Release notes](https://github.com/npm/fstream/releases)
+    - [Commits](https://github.com/npm/fstream/compare/v1.0.11...v1.0.12)
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+[33mcommit b336560b2dea64999145d5a0b83e8a088a12f9c4[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Sat Feb 15 21:42:58 2020 +0000
+
+    Bump lodash.mergewith from 4.6.1 to 4.6.2
+    
+    Bumps [lodash.mergewith](https://github.com/lodash/lodash) from 4.6.1 to 4.6.2.
+    - [Release notes](https://github.com/lodash/lodash/releases)
+    - [Commits](https://github.com/lodash/lodash/commits)
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+[33mcommit f5c569b56c7032efd6fb43c4b88c4a4ffb0d76d3[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Sat Feb 15 21:42:59 2020 +0000
+
+    Bump lodash from 4.17.11 to 4.17.15
+    
+    Bumps [lodash](https://github.com/lodash/lodash) from 4.17.11 to 4.17.15.
+    - [Release notes](https://github.com/lodash/lodash/releases)
+    - [Commits](https://github.com/lodash/lodash/compare/4.17.11...4.17.15)
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+[33mcommit b6c7458ae9ecaa75a8e65518ab0fa0e631e0cafd[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Sat Nov 2 23:03:29 2019 +0000
+
+    Bump mixin-deep from 1.3.1 to 1.3.2
+    
+    Bumps [mixin-deep](https://github.com/jonschlinkert/mixin-deep) from 1.3.1 to 1.3.2.
+    - [Release notes](https://github.com/jonschlinkert/mixin-deep/releases)
+    - [Commits](https://github.com/jonschlinkert/mixin-deep/compare/1.3.1...1.3.2)
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+[33mcommit 2e91039fdd471ff80eb7b6a834a4f98941828428[m
+Author: Saverio Valerio <saverio.valerio@outlook.it>
+Date:   Fri Oct 26 11:43:59 2018 +0200
+
+    Fixed infinite loop when updating JS code
+
+[33mcommit e949fbc23a60608c769b9e04250cdf24a567a2f5[m
+Author: Saverio Valerio <saverio.valerio@outlook.it>
+Date:   Wed Oct 24 17:11:28 2018 +0200
+
+    Fixed Gulp watch task that would not listen to any file changes
+
+[33mcommit 35b36f6af2235f42938c6ef32f84b663f78a7e6c[m
+Author: Saverio Valerio <saverio.valerio@outlook.it>
+Date:   Wed Oct 24 15:47:56 2018 +0200
+
+    Updated JS dependencies
+
+[33mcommit 0d17dc6b785918a9442b1a3afe22c915214b3151[m
+Author: Davidson Mohanty <davidjuly93@gmail.com>
+Date:   Mon Jul 23 19:29:19 2018 +0530
+
+    Add linkedIn to list of social networks
+    
+     * Addressed Issue #47
+
+[33mcommit 072b1178d867d2679b4cc2e9977925a4c72679b5[m
+Author: Ryan Fitzgerald <rfitz042@uottawa.ca>
+Date:   Mon Jul 2 15:03:33 2018 -0400
+
+    Update README.md
+
+[33mcommit 825cab20fd34de96f105da02eaa57dbadf9ead5b[m
+Author: googlr <googlr@users.noreply.github.com>
+Date:   Sat Jun 16 16:00:47 2018 -0400
+
+    fixed a typo.
+
+[33mcommit 9d4658d0083141c067ce52611a1898b540419d2a[m
+Author: Ryan Fitzgerald <rfitz042@uottawa.ca>
+Date:   Sun Sep 10 20:02:14 2017 -0400
+
+    Update README.md
+
+[33mcommit b6d30f98a92522fefe3c950a913fd8cf9249c9ea[m
+Author: Ryan Fitzgerald <rfitz042@uottawa.ca>
+Date:   Sun Aug 27 19:21:08 2017 -0400
+
+    1.2.1 - Addressed Issue #30 & other small changes
+
+[33mcommit bf5069e117ec94afea7a4dcdcf70313a91dc46d9[m
+Author: Ryan Fitzgerald <rfitz042@uottawa.ca>
+Date:   Sat May 20 15:10:34 2017 -0400
+
+    Version 1.2.0 - Implementing feedback from issues #14 and #24
+
+[33mcommit 9dfe31f897ecffec3cdc95ebbcf3b9407ff12b0b[m
+Author: Ryan Fitzgerald <rfitz042@uottawa.ca>
+Date:   Sat May 20 13:50:56 2017 -0400
+
+    Update README.md
+
+[33mcommit 19503c8921a0ac0ee3bd22a009e34c5dfd7db0d7[m
+Author: Ryan Fitzgerald <rfitz042@uottawa.ca>
+Date:   Fri Apr 28 22:57:12 2017 -0400
+
+    Fix typo
+
+[33mcommit 9d89175ab344599289b39c995f758438d9c14c42[m
+Author: Ryan Fitzgerald <rfitz042@uottawa.ca>
+Date:   Mon Mar 27 08:50:04 2017 -0400
+
+    Update README.md
+
+[33mcommit 88fa0831a56531c6754d0c41fa90e858e3915812[m
+Author: Yousef Amar <yousefamar@gmail.com>
+Date:   Mon Mar 27 11:43:21 2017 +0100
+
+    Add gulp watch script to package.json
+    
+    Makes it so that people who don't have gulp installed globally (like me) can run `npm run watch` instead of having to find the gulp executable in `node_modules`.
+
+[33mcommit 3eb077b020365a38686975f28a54f326969e6a04[m
+Author: Ryan Fitzgerald <rfitz042@uottawa.ca>
+Date:   Sat Mar 25 18:06:25 2017 -0400
+
+    1.1.3 - Addressed Issue #10 & Issue #13
+
+[33mcommit b6b1264dcde96ac3cdb34d92cec62e9185e62020[m
+Author: Jason Marsh <regularly.jason@gmail.com>
+Date:   Wed Mar 22 08:52:03 2017 -0500
+
+    Docs: Post-review links adjustment
+
+[33mcommit 840435ce3fabf1c3ba0c0561619b0984323b6fba[m
+Author: Jason Marsh <regularly.jason@gmail.com>
+Date:   Tue Mar 21 21:42:29 2017 -0500
+
+    docs: Add Table of Contents with relative links
+
+[33mcommit af725ec344dca5e48ab5fb4059068cd157a55de1[m
+Author: Ryan Fitzgerald <rfitz042@uottawa.ca>
+Date:   Wed Mar 22 08:42:10 2017 -0400
+
+    Issue #8 - Added additional link for formspree tut
+
+[33mcommit 92109faa9385ccf028ff5dc462999a017fb870b0[m
+Author: Ryan Fitzgerald <rfitz042@uottawa.ca>
+Date:   Wed Mar 22 08:18:02 2017 -0400
+
+    Issue #7 - Open social links in new tabs
+
+[33mcommit 953de827b04ebf48b97a0b07d97d124c454bfffd[m
+Author: Ryan Fitzgerald <rfitz042@uottawa.ca>
+Date:   Tue Mar 21 19:03:59 2017 -0400
+
+    Fix comments
+
+[33mcommit d13cb9e000267ae5efb2e371d083cc07cb667110[m
+Author: Ryan Fitzgerald <rfitz042@uottawa.ca>
+Date:   Tue Mar 21 19:02:47 2017 -0400
+
+    1.1.2 - Header link class; background height; contact bg
+
+[33mcommit 9bebe20de324eed708588e9b146735d6d58a8321[m
+Author: Alexey Pyltsyn <lex111@users.noreply.github.com>
+Date:   Mon Mar 20 20:19:50 2017 +0300
+
+    Minor improvements in README.md
+
+[33mcommit f94a9507b2f6f371e4a55ec0673059429cbf476b[m
+Author: Ryan Fitzgerald <rfitz042@uottawa.ca>
+Date:   Mon Mar 20 11:03:48 2017 -0400
+
+    Update README.md
+
+[33mcommit 4e873aa1e9be92248f7074e1a1daac03368134bf[m
+Author: Ryan Fitzgerald <rfitz042@uottawa.ca>
+Date:   Sun Mar 19 22:47:53 2017 -0400
+
+    Preserve comments
+
+[33mcommit 14c596bb586e07ed5e0406ad4c6e13ea363ad298[m
+Author: Ryan Fitzgerald <rfitz042@uottawa.ca>
+Date:   Sun Mar 19 21:16:19 2017 -0400
+
+    1.1.1 - Fixed accessibility; added no-js style fallbacks
+
+[33mcommit d02de4b8521ee3694c8a4abf1569f4ce3a83874c[m
+Author: Ryan Fitzgerald <rfitz042@uottawa.ca>
+Date:   Sun Mar 19 19:09:38 2017 -0400
+
+    Update README.md
+
+[33mcommit 7cccdb61111e99599c40b2407e1c5dc12ab9e3ea[m
+Author: Ryan Fitzgerald <rfitz042@uottawa.ca>
+Date:   Sun Mar 19 18:56:26 2017 -0400
+
+    Update README.md
+
+[33mcommit d87c65ae03ee517fd6e6b0d11a97026799fa5238[m
+Author: MartinJac <MartinJac@users.noreply.github.com>
+Date:   Sun Mar 19 20:27:53 2017 +0000
+
+    [Fix] Change version to semantic versioning
+
+[33mcommit fea22ece9cc82a5a3c7aaeff04ff84c20797f945[m
+Author: Ryan Fitzgerald <rfitz042@uottawa.ca>
+Date:   Mon Mar 13 12:08:40 2017 -0400
+
+    1.1 - Fixed mobile menu issues
+
+[33mcommit ebdc4d532a6ab08a8d17b35e364996ce32143700[m
+Author: Ryan Fitzgerald <rfitz042@uottawa.ca>
+Date:   Sat Mar 11 19:48:10 2017 -0500
+
+    Update LICENSE.md
+
+[33mcommit b0d39c407922f6e35ddbbd80f69030ce126c9543[m
+Author: Ryan Fitzgerald <rfitz042@uottawa.ca>
+Date:   Sat Mar 11 19:47:43 2017 -0500
+
+    Fix link typo
+
+[33mcommit d0db0fd59e4b47decc706349aabcbd21cf3096f7[m
+Author: Ryan Fitzgerald <rfitz042@uottawa.ca>
+Date:   Sat Mar 11 19:46:44 2017 -0500
+
+    update readme
+
+[33mcommit 19fd6702ac780b793a12e91b3b5f16d4eb69771d[m
+Author: Ryan Fitzgerald <rfitz042@uottawa.ca>
+Date:   Sun Mar 12 16:14:01 2017 -0400
+
+    Add fade to timeline; add mobile menu
+
+[33mcommit df19810a17f73a1a4859ddb59e1a1a5edc6cedc6[m
+Author: Ryan Fitzgerald <rfitz042@uottawa.ca>
+Date:   Sat Mar 11 18:21:36 2017 -0500
+
+    Initial commit
+
+[33mcommit 010f0f7c598e06c3efea40805ae39d00903f9362[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: Odin <odinlopez0@gmail.com>
+Date:   Wed Feb 23 00:20:54 2022 -0300
+
+    se modifico el repositorio2202.html y se agrego el archivo repositorio2203.html
+
+[33mcommit 4a67a95439d34853252e1ac29edc525bf32a37d0[m
+Author: Odin <odinlopez0@gmail.com>
+Date:   Wed Feb 23 00:12:38 2022 -0300
+
+    Este es el primer commit del grupo
